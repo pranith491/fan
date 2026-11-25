@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650" role="img" aria-label="Black and gold table fan illustration">
+<defs><radialGradient id="metal"><stop stop-color="#e7e4d9"/><stop offset=".5" stop-color="#777b78"/><stop offset="1" stop-color="#202625"/></radialGradient><linearGradient id="black" x2="1" y2="1"><stop stop-color="#4d5552"/><stop offset=".5" stop-color="#111615"/><stop offset="1" stop-color="#050707"/></linearGradient><linearGradient id="gold"><stop stop-color="#f4d99b"/><stop offset=".5" stop-color="#b58a43"/><stop offset="1" stop-color="#f4d99b"/></linearGradient></defs>
+<ellipse cx="300" cy="610" rx="155" ry="18" fill="#000" opacity=".4"/>
+<!-- stand -->
+<path d="M282 365h36l18 190h-72z" fill="url(#black)" stroke="#8d7448" stroke-width="3"/>
+<path d="M265 540h70l55 49q10 12-8 17H218q-18-5-8-17z" fill="url(#black)" stroke="url(#gold)" stroke-width="4"/>
+<path d="M290 390h20v150h-20z" fill="#85877e" opacity=".35"/>
+<!-- motor housing -->
+<circle cx="300" cy="290" r="43" fill="url(#black)" stroke="url(#gold)" stroke-width="5"/>
+<circle cx="300" cy="290" r="23" fill="#171c1a" stroke="#a78a55" stroke-width="3"/>
+<!-- fan blades -->
+<g transform="translate(300 245)" fill="url(#black)" stroke="#9d865b" stroke-width="3">
+<path d="M-12 34C-70 0-108-58-77-87C-42-118-5-49 8 18Q5 29-12 34Z"/>
+<path d="M-12 34C-70 0-108-58-77-87C-42-118-5-49 8 18Q5 29-12 34Z" transform="rotate(72)"/>
+<path d="M-12 34C-70 0-108-58-77-87C-42-118-5-49 8 18Q5 29-12 34Z" transform="rotate(144)"/>
+<path d="M-12 34C-70 0-108-58-77-87C-42-118-5-49 8 18Q5 29-12 34Z" transform="rotate(216)"/>
+<path d="M-12 34C-70 0-108-58-77-87C-42-118-5-49 8 18Q5 29-12 34Z" transform="rotate(288)"/>
+</g>
+<!-- cage rings -->
+<circle cx="300" cy="245" r="153" fill="none" stroke="url(#gold)" stroke-width="7"/>
+<circle cx="300" cy="245" r="143" fill="none" stroke="#b9b8ad" stroke-width="2"/>
+<circle cx="300" cy="245" r="126" fill="none" stroke="#777d78" stroke-width="2"/>
+<g stroke="#aeb0a6" stroke-width="2" opacity=".9">
+<path d="M300 92V398M147 245h306M192 137l216 216M408 137 192 353M244 98l112 294M356 98 244 392M153 190l294 110M153 300l294-110"/>
+</g>
+<circle cx="300" cy="245" r="18" fill="url(#gold)" stroke="#171b19" stroke-width="5"/>
+<circle cx="300" cy="245" r="6" fill="#222"/>
+<!-- control detail -->
+<rect x="283" y="430" width="34" height="48" rx="8" fill="#111615" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="300" cy="444" r="5" fill="#d5b36c"/><circle cx="300" cy="462" r="5" fill="#d5b36c"/>
+<text x="300" y="630" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="bold" letter-spacing="5" fill="#d7bd82">CROMPTON</text>
+</svg>
